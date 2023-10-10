@@ -9,3 +9,8 @@ a = 10
 b = 5
 print("a = " + str(a) + ", = " + str(b))
 print(a + b)
+
+print("\nConcatenating Operator: ")
+name = "Arturo"
+print("Printing variable name")
+print("Hello " + name)
