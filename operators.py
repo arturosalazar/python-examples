@@ -45,3 +45,30 @@ print("Greater Than or Equals: 10 >= 10")
 print(10 >= 10)
 print("Less Than or Equals: 10 <= 9")
 print(10 <= 9)
+
+
+# Assignment Operators
+print("\nAssignment Operators")
+phone = "DuckPhone"
+a = 10
+print(a)
+print("Plus Equals: a += 7")
+print("Equivalent to a = a + 7")
+a += 7
+print(a)
+
+print("Minus Equals: a -= 1")
+a -= 1
+print(a)
+print("Times Equals: a *= 2")
+a *= 2
+print(a)
+print("Division Equals: a /= 2")
+a /= 2
+print(a)
+print("Modulo Equals: a %= 6")
+a %= 6
+print(a)
+print("Exponent Equals: a **= 3")
+a **= 3
+print(a)
