@@ -26,3 +26,10 @@ print("Modulo: 10 % 1")
 print(10 % 1)
 print("Exponent: 10 ** 3")
 print(10 ** 3)
+
+
+print("\nComparison Operations")
+print("Equality Operator on numbers: 10 == 20")
+print(10 == 20)
+print("Equality Operator on strings: \"abc123\" == \"abc123\"")
+print("abc123" == "abc123")
