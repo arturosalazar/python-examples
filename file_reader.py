@@ -17,7 +17,8 @@ print(f"\nPath to file is: {path}")
 
 # Accessing file in a completely separate directory of current directory
 # Absolute Path
-path = Path("C:/Users/17732/Desktop/python_work/example_text_doc.txt")
-contents = path.read_text().rstrip()
-print(contents)
-print(f"\nPath to file is: {path}")
+### Commenting this out bc will not work since file is elsewhere in system
+# path = Path("C:/Users/some_user/Desktop/some_work/example_text_doc.txt")
+# contents = path.read_text().rstrip()
+# print(contents)
+# print(f"\nPath to file is: {path}")
